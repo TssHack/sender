@@ -2,7 +2,7 @@ import requests
 import json
 
 # توکن ربات بله (جایگزین کن)
-BOT_TOKEN = "2071296181:C1ouATv8fb7OjzcR5y8aqlwtEnxlkPrMFCtNzqGz"
+BOT_TOKEN = "‏‏1752263879:AR7EWOyRTpIcTXyQG7kq3ZbHFBaAyFV43rEC8krO"
 
 # لیست شناسه‌های کاربران
 user_ids = [
